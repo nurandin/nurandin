@@ -1,5 +1,10 @@
-### Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Nurul Andini**.
+
+Saya seorang mahasiswa semester 5 pada program studi **Sistem dan Teknologi Informasi** di [Universitas Negeri Jakarta](https://www.unj.ac.id/).
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nurul-andini/)ku ya.
 <!--
 **nurandin/nurandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
